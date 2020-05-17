@@ -1,2 +1,5 @@
 st
 *.o
+config.h
+dmenu
+dwm
