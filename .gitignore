@@ -1,0 +1,6 @@
+st
+*.o
+*.1
+config.h
+dmenu
+dwm
